@@ -33,7 +33,7 @@ body {
 }
 /* Font settings */
 body, button, input, select, textarea {
-	font: 16px/1.625 Georgia, serif;
+	font: 16px/1.625 Helvetica, sans-serif;
 	*font-size: 1em; /* IE7 and older: IE can't resize px based text and most mobiles don't default the text to 16px */
 	color: #333; /* Black on white is too much contrast, #333 is a lot better */
 }
