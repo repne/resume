@@ -3,18 +3,15 @@
 <head>
     <meta charset='utf-8'>
     <title>repne/resume @ GitHub</title>
+    <link rel="stylesheet" href="css/master.css" type="text/css" >
     <style type="text/css">
+        /*
         body
         {
             margin-top: 1.0em;
             background-color: #FCFCFC;
             font-family: Helvetica, Arial, FreeSans, san-serif;
             color: #000000;
-        }
-        #container
-        {
-            margin: 0 auto;
-            width: 700px;
         }
         h1
         {
@@ -51,27 +48,27 @@
             margin-top: 30px;
             font-style: italic;
         }
-        .download
+        */
+        #container
+        {
+            margin: 0 auto;
+            width: 700px;
+        }
+        #download
         {
             float: right;
+        }
+        #footer
+        {
+            text-align: center;
+            padding-top: 30px;
+            font-style: italic;
         }
         pre
         {
             background: #000;
             color: #fff;
             padding: 15px;
-        }
-        hr
-        {
-            border: 0;
-            width: 80%;
-            border-bottom: 1px solid #aaa;
-        }
-        .footer
-        {
-            text-align: center;
-            padding-top: 30px;
-            font-style: italic;
         }
     </style>
 </head>
@@ -80,14 +77,14 @@
         <img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
     </a>
     <div id="container">
-        <div class="download">
+        <div id="download">
             <a href="http://github.com/repne/resume/zipball/master"><img border="0" width="90" src="http://github.com/images/modules/download/zip.png"></a>
             <a href="http://github.com/repne/resume/tarball/master"><img border="0" width="90" src="http://github.com/images/modules/download/tar.png"></a>
         </div>
         <div class="content">
         {{ content }}
         </div>
-        <div class="description>
+        <div class="description">
             <h2>Download</h2>
             <p>
                 You can download this project in either <a href="http://github.com/repne/resume/zipball/master"> zip</a> or <a href="http://github.com/repne/resume/tarball/master">tar</a> formats.
@@ -97,7 +94,7 @@
                 <pre>$ git clone git://github.com/repne/resume</pre>
             </p>
         </div>
-        <div class="footer">get the source code on GitHub : <a href="http://github.com/repne/resume">repne/resume</a></div>
+        <div id="footer">get the source code on GitHub : <a href="http://github.com/repne/resume">repne/resume</a></div>
     </div>
 </body>
 </html>
