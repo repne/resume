@@ -17,7 +17,7 @@ Altough I have **9 years of professional experience**, I have never worked a sin
 I *love* programming, heck, I've been programming since I was 9 years old, it's my main hobby and my stress reliever, sometimes even my obsession and always an argument with my girlfriend.
 That's why I'm looking for a dynamic and young environment with people passionate like me, people I could learn from.
 
-The first line of code I've written was in **BASIC**, but I quickly moved to **C** and **ASM** because I wanted to develop my own operating system <dfn>(monolithic kernel, single-threaded, bootloader and a basic filesystem)</dfn>, later I switched to **C++** because I felt it was more appropriate for writing **3D engines** for games, I worked for a year using **DirectX** then moved to **OpenGL** because I wanted to try something new and loved it, I've used it for years.
+The first line of code I've written was in **BASIC**, but a year later I moved to **C** and **ASM** because I wanted to develop my own operating system <dfn>(monolithic kernel, single-threaded, bootloader and a basic filesystem)</dfn>, later I switched to **C++** because I felt it was more appropriate for writing **3D engines** for games, I worked for a year using **DirectX** then moved to **OpenGL** because I wanted to try something new and loved it, I've used it for years.
 But writing a 3d game is a huge task for a single person and I got lost when rolling my own script language <dfn>(stack-based VM, event driven, C like syntax, configurable EBNF grammar)</dfn> using, of course, **boost::spirit**.
 
 #### Job 0 ####
