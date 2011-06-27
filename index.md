@@ -5,7 +5,8 @@ layout: index
 
 # Resume #
 
-> #### tl;dr version (because resumes are read in O(n<sup>3</sup>)) ####
+#### tl;dr version (because resumes are read in O(n<sup>3</sup>)) ####
+
 > I love programming, scalability, challenge and learning.
 > I've mastered C# and C++, I'm really good at Python and Javascript and I'm fluent in many more languages like C and PHP (next on my to-do list is Haskell).
 > I don't mind the toolset used as long as it is the right one for the job, I'm ok in learning new technologies.
