@@ -1,3 +1,8 @@
+---
+title: repne's resume
+layout: index
+---
+
 # Resume #
 
 > #### tl;dr version (because resumes are read in O(n<sup>3</sup>)) ####
