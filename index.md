@@ -18,7 +18,7 @@ layout: index
 
 #### Me ####
 
-Hello, my name is Antonio Fiumanò, I was born in Italy in October 1, 1985, I'm a **software architect** and **developer** in a wide variety of applications but my *current* focus is on web applications because designing and building scalable, distributed applications on the cloud is challenging and challenge is *fun!*
+Hello, my name is Antonio Fiuman&ograve;, I was born in Italy in October 1, 1985, I'm a **software architect** and **developer** in a wide variety of applications but my *current* focus is on web applications because designing and building scalable, distributed applications on the cloud is challenging and challenge is *fun!*
 
 Altough I have **9 years of professional experience**, I have never worked a single day of my life.
 I *love* programming, heck, I've been programming since I was 9 years old, it's my main hobby and my stress reliever, sometimes even my obsession and always an argument with my girlfriend (love you :).
