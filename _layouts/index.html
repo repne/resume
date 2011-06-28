@@ -4,114 +4,121 @@
 	<meta charset='utf-8'>
 	<title>repne/resume @ GitHub</title>
 	<style type="text/css">
-		body
-		{
-			font: 14px Helvetica, sans-serif;
-			color: #222;
-			line-height: 1.625em;
-		}
-		p, blockquote, pre, code, samp, dl, ol, ul, h4
-		{
-			margin: 0 0 1.625em;
-		}
-		h1, h2, h3, h4
-		{
-			font-size: 1em;
-			font-weight: normal;
-			color: #111;
-		}
-		h1
-		{
-			font-size: 4.25em;
-			line-height: 1.1471em;
-			margin: 0 0 0.3824em;
-		}
-		h2
-		{
-			font-size: 2.625em;
-			line-height: 1.2381em;
-			margin: 0 0 0.619em;
-		}
-		pre
-		{
-			font-family: Menlo, Consolas, 'DejaVu Sans Mono' , Monaco, monospace;
-			background: #000;
-			color: #fff;
-			padding: 11px;
-		}
-		blockquote
-		{
-			font-style: italic;
-			padding-left: 1.475em;
-			border-left: 3px solid #ccc;
-		}
-		a
-		{
-			text-decoration: none;
-		}
-		a:hover
-		{
-			text-decoration: underline;
-		}
-		a:focus
-		{
-			outline: thin dotted;
-		}
-		a:hover, a:active
-		{
-			outline: none;
-		}
-		abbr[title], dfn[title]
-		{
-			border-bottom: 1px dotted #333;
-			cursor: help;
-		}
-		dfn
-		{
-			font-style: italic;
-		}
-		#buttons
-		{
-			position: absolute;
-			top: 0;
-			left: 0;
-			border: 0;
-		}
-		#buttons span
-		{
-			float: left;
-			margin-right: 4px;
-		}
-		#container
-		{
-			margin: 0 auto;
-			width: 780px;
-		}
-		#content
-		{
-			margin-top: 16px;
-		}
-		#content h4
-		{
-			position: absolute;
-			margin-left: -140px;
-			float: left;
-			text-align: right;
-			font-weight: 600;
-			color: #444;
-			width: 120px;
-		}
-		#info
-		{
-			margin-bottom: 30px;
-			margin-top: 30px;
-		}
-		.mapson
-		{
-			display: none;
-		}
-		
-		
+         body
+        {
+            margin: 0;
+            margin: 0 8px 8px 8px;
+            font: 14px Helvetica, sans-serif;
+            color: #222;
+            line-height: 1.625em;
+        }
+        p, blockquote, pre, code, samp, dl, ol, ul, h4
+        {
+            margin: 0 0 1.625em;
+        }
+        h1, h2, h3, h4
+        {
+            font-size: 1em;
+            font-weight: normal;
+            color: #111;
+        }
+        h1
+        {
+            font-size: 4.25em;
+            line-height: 1.1471em;
+            margin: 0 0 0.3824em;
+        }
+        h2
+        {
+            font-size: 2.625em;
+            line-height: 1.2381em;
+            margin: 0 0 0.619em;
+        }
+        pre
+        {
+            font-family: Menlo, Consolas, 'DejaVu Sans Mono' , Monaco, monospace;
+            background: #000;
+            color: #fff;
+            padding: 11px;
+        }
+        blockquote
+        {
+            font-style: italic;
+            padding-left: 1.475em;
+            border-left: 3px solid #ccc;
+        }
+        a
+        {
+            text-decoration: none;
+        }
+        a:hover
+        {
+            text-decoration: underline;
+        }
+        a:focus
+        {
+            outline: thin dotted;
+        }
+        a:hover, a:active
+        {
+            outline: none;
+        }
+        abbr[title], dfn[title]
+        {
+            border-bottom: 1px dotted #333;
+            cursor: help;
+        }
+        dfn
+        {
+            font-style: italic;
+        }
+        #buttons
+        {
+            position: absolute;
+            top: 0;
+            left: 8px;
+            border: 0;
+        }
+        #buttons span
+        {
+            float: left;
+            margin-right: 8px;
+            margin-top: 2px;
+        }
+        #container
+        {
+            margin: 0 auto;
+            width: 780px;
+        }
+        #content
+        {
+            margin-top: 16px;
+        }
+        #content h4
+        {
+            position: absolute;
+            margin-left: -140px;
+            float: left;
+            text-align: right;
+            font-weight: 600;
+            color: #444;
+            width: 120px;
+        }
+        #info
+        {
+            margin-bottom: 30px;
+            margin-top: 30px;
+        }
+        .mapson
+        {
+            display: none;
+        }
+        .webinfo
+        {
+            display: none;
+        }
+        
+        
         @media print {
             *
             {
@@ -123,12 +130,12 @@
             }
             a, a:visited
             {
-                content: "";
+                color: #222 !important;
+                text-decoration: none;
             }
             a[href]:after
             {
-                text-decoration: underline;
-                content: " " attr(href) "";
+                content: " (" attr(href) ")";
             }
             abbr
             {
@@ -151,22 +158,32 @@
                 orphans: 3;
                 widows: 3;
             }
-            h2, h3 {
+            h2, h3
+            {
                 page-break-after: avoid;
             }
-            
-            #forkme, #buttons img
+            #content
+            {
+                margin-top: 0;
+            }
+            #forkme, #buttons
             {
                 display: none;
             }
-            
-            #buttons span
-		    {
-		        text-align: right;
-		        margin-top: 2px;
-			    margin-right: 8px;
-			    font-size: 0.875em;
-		    }
+            #content h4
+            {
+                position:relative;
+                margin-left: 0;
+                float: none;
+                text-align: left;
+                font-weight: 700;
+                color: #444;
+                width: auto;
+            }
+            .webinfo
+            {
+                display: block;
+            }
         }
 	</style>
 </head>
@@ -176,18 +193,18 @@
 		    <img src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
 	    </a>
     </span>
-	<div id="buttons">
-		<span style="margin-top: 2px;">
-			<a href="http://www.twitter.com/repne">
-				<img src="http://s3.amazonaws.com/twitter-badges/twitter-a.png" alt="Follow repne on Twitter" />
-			</a>
-		</span>
-		<span style="margin-top: 1px;">
-			<a href="http://it.linkedin.com/in/antoniofiumano">
-				<img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Antonio Fiumanò's profile on LinkedIn" />
-			</a>
-		</span>
-	</div>
+    <div id="buttons">
+        <span>
+            <a href="http://www.twitter.com/repne">
+                <img src="http://s3.amazonaws.com/twitter-badges/twitter-a.png" alt="Follow repne on Twitter" />
+            </a>
+        </span>
+        <span>
+            <a href="http://it.linkedin.com/in/antoniofiumano">
+                <img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x25.png" width="160" height="23" border="0" alt="View Antonio Fiumanò's profile on LinkedIn" />
+            </a>
+        </span>
+    </div>
 	<div id="container">
 		<div id="content">
 			{{ content }}
@@ -195,6 +212,8 @@
 		<div id="info">
             <h2>Contact</h2>
             <p>Feel free to write me anything you want to ask at <strong>antonio.fiumano@<span class="mapson">mapson</span>gmail.com</strong> :)</p>
+            <p class="webinfo">You can find more about me on <a href="http://www.twitter.com/repne">Twitter</a> and <a href="http://it.linkedin.com/in/antoniofiumano">LinkedIn</a></p>
+            <p class="webinfo">This resume is hosted on <a href="http://repne.github.com/resume/">GitHub</a></p>
 			<h2>Download</h2>
 			<p>
 				You can download this resume in either <a href="http://github.com/repne/resume/zipball/master">zip</a> or <a href="http://github.com/repne/resume/tarball/master">tar</a> formats.<br />
