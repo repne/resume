@@ -5,7 +5,7 @@ layout: index
 
 # Resume #
 
-#### tl;dr version (because read(resume) is O(n<sup>3</sup>)) ####
+#### tl;dr (because resumes are read in O(n<sup>3</sup>)) ####
 
 > I love programming, scalability, challenge and learning.
 > I've mastered C# and C++, I'm really good at Python and Javascript and I'm fluent in many more languages like C and PHP (next on my to-do list is Haskell).

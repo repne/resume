@@ -1,80 +1,140 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset='utf-8'>
-    <title>repne/resume @ GitHub</title>
-    <link rel="stylesheet" href="css/main.css" type="text/css" />
-    <style type="text/css">
-        #container
-        {
-            margin: 0 auto;
-            width: 960px;
-            padding-bottom: 20px;
-        }
-        #download
-        {
-            float: right;
-        }
-        #info
-        {
-            margin-bottom: 30px;
-            margin-top: 30px;
-        }
-        #content
-        {
-            margin-left: -260px;
-        }
-        pre
-        {
-            background: #000;
-            color: #fff;
-            padding: 15px;
-        }
-        h4
-        {
-            float: left;
-            width: 240px;
-            text-align: right;
-            padding-right: 20px;
-            font-weight: 600;
-        }
-        #content h1
-        {
-            margin-left: 260px;
-        }
-        #content p, #content blockquote
-        {
-            margin-left: 260px;
-        }
-        #content blockquote p
-        {
-            margin-left: 0px;
-        }
-    </style>
+	<meta charset='utf-8'>
+	<title>repne/resume @ GitHub</title>
+	<style type="text/css">
+		body {
+			font: 14px Helvetica, sans-serif;
+			color: #222;
+			line-height: 1.625em;
+		}
+		p, blockquote, pre, code, samp, dl, ol, ul, h4, h5, h6, img {
+			margin: 0 0 1.625em
+		}
+		h1, h2, h3, h4, h5, h6 {
+			font-size: 1em;
+			font-weight: normal;
+			color: #111;
+		}
+		h1 {
+			font-size: 4.25em;
+			line-height: 1.1471em;
+			margin: 0 0 0.3824em;
+		}
+		h2 {
+			font-size: 2.625em;
+			line-height: 1.2381em;
+			margin: 0 0 0.619em;
+		}
+		pre
+		{
+			font-family: Menlo, Consolas, 'DejaVu Sans Mono', Monaco, monospace;
+			background: #000;
+			color: #fff;
+			padding: 11px;
+		}
+		blockquote 
+		{
+			font-style: italic;
+			padding-left: 1.475em;
+			border-left: 3px solid #ccc;
+		}
+		a {
+			text-decoration: none;
+		}
+		a:hover {
+			text-decoration: underline;
+		}
+		a:focus {
+			outline: thin dotted;
+		}
+		a:hover, a:active {
+			outline: none;
+		}
+		abbr[title], dfn[title] {
+			border-bottom: 1px dotted #333;
+			cursor: help;
+		}
+		dfn {
+			font-style: italic;
+		}
+		sub, sup {
+			font-size: 0.625em;
+			line-height: 0;
+			position: relative;
+			vertical-align: baseline;
+		}
+		sup {
+			top: -0.5em;
+		}
+		sub {
+			bottom: -0.25em;
+		}
+		#container
+		{
+			margin: 0 auto;
+			width: 960px;
+		}
+		#download
+		{
+			float: right;
+		}
+		#info
+		{
+			margin-bottom: 30px;
+			margin-top: 30px;
+		}
+		#content
+		{
+			margin-left: -260px;
+		}
+		#content h1
+		{
+			margin-left: 260px;
+		}
+		#content h4
+		{
+			float: left;
+			width: 240px;
+			text-align: right;
+			padding-right: 20px;
+			font-weight: 600;
+			color: #444;
+		}
+		#content p, #content blockquote
+		{
+			margin-left: 260px;
+		}
+		#content blockquote p
+		{
+			margin-left: 0px;
+		}
+	</style>
 </head>
 <body>
-    <a href="http://github.com/repne/resume">
-        <img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
-    </a>
-    <div id="container">
-        <div id="download">
-            <a href="http://github.com/repne/resume/zipball/master"><img border="0" width="90" src="http://github.com/images/modules/download/zip.png"></a>
-            <a href="http://github.com/repne/resume/tarball/master"><img border="0" width="90" src="http://github.com/images/modules/download/tar.png"></a>
-        </div>
-        <div id="content">
-        {{ content }}
-        </div>
-        <div id="info">
-            <h2>Download</h2>
-            <p>
-                You can download this resume in either <a href="http://github.com/repne/resume/zipball/master"> zip</a> or <a href="http://github.com/repne/resume/tarball/master">tar</a> formats.
-                If you want a Microsoft Word version I don't want to work with you.
-            </p>
-            <p>
-                You can also clone my resume with <a href="http://git-scm.com">Git</a> by running:
-                <pre>$ git clone git://github.com/repne/resume</pre>
-            </p>
-        </div>
-    </div>
+	<a href="http://github.com/repne/resume">
+		<img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
+	</a>
+	<div id="container">
+		<div id="download">
+			<a href="http://github.com/repne/resume/zipball/master"><img border="0" width="90" src="http://github.com/images/modules/download/zip.png"></a>
+			<a href="http://github.com/repne/resume/tarball/master"><img border="0" width="90" src="http://github.com/images/modules/download/tar.png"></a>
+		</div>
+		<div id="content">
+		{{ content }}
+		</div>
+		<div id="info">
+			<h2>Download</h2>
+			<p>
+				You can download this resume in either <a href="http://github.com/repne/resume/zipball/master"> zip</a> or <a href="http://github.com/repne/resume/tarball/master">tar</a> formats.
+				If you want a Microsoft Word version I don't want to work with you.
+			</p>
+			<p>
+				You can also clone my resume with <a href="http://git-scm.com">Git</a> by running:
+				<pre>$ git clone git://github.com/repne/resume</pre>
+			</p>
+		</div>
+	</div>
 </body>
 </html>
