@@ -70,20 +70,26 @@
 		{
 			font-style: italic;
 		}
+		#buttons
+		{
+			position: absolute;
+			top: 0;
+			left: 0;
+			border: 0;
+		}
+		#buttons span
+		{
+			float: left;
+			margin-right: 4px;
+		}
 		#container
 		{
 			margin: 0 auto;
 			width: 780px;
 		}
-		#buttons span
+		#content
 		{
-		    float: left;
-		    margin-right: 4px;
-		}
-		#info
-		{
-			margin-bottom: 30px;
-			margin-top: 30px;
+			margin-top: 20px;
 		}
 		#content h4
 		{
@@ -95,25 +101,44 @@
 			color: #444;
 			width: 120px;
 		}
+		#info
+		{
+			margin-bottom: 30px;
+			margin-top: 30px;
+		}
+		.mapson
+		{
+			display: none;
+		}
 	</style>
 </head>
 <body>
 	<a href="http://github.com/repne/resume">
 		<img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
 	</a>
-	<div id="buttons" style="height:30px">
-        <span style="margin-top: 1px;"><a href="http://www.twitter.com/repne"><img src="http://twitter-badges.s3.amazonaws.com/twitter-a.png" alt="Follow repne on Twitter"/></a></span>
-        <span><a href="http://it.linkedin.com/in/antoniofiumano"><img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Antonio Fiumanò's profile on LinkedIn"/></a></span>
+	<div id="buttons">
+		<span style="margin-top: 1px;">
+			<a href="http://www.twitter.com/repne">
+				<img src="http://s3.amazonaws.com/twitter-badges/twitter-a.png" alt="Follow repne on Twitter" />
+			</a>
+		</span>
+		<span>
+			<a href="http://it.linkedin.com/in/antoniofiumano">
+				<img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Antonio Fiumanò's profile on LinkedIn" />
+			</a>
+		</span>
 	</div>
 	<div id="container">
 		<div id="content">
-		{{ content }}
+			{{ content }}
 		</div>
 		<div id="info">
+            <h2>Contact</h2>
+            <p>Feel free to write me anything you want to ask at <strong>antonio.fiumano@<span class="mapson">mapson</span>gmail.com</strong> :)</p>
 			<h2>Download</h2>
 			<p>
-				You can download this resume in either <a href="http://github.com/repne/resume/zipball/master"> zip</a> or <a href="http://github.com/repne/resume/tarball/master">tar</a> formats.
-				If you want a Microsoft Word version I don't want to work with you.
+				You can download this resume in either <a href="http://github.com/repne/resume/zipball/master">zip</a> or <a href="http://github.com/repne/resume/tarball/master">tar</a> formats.<br />
+				<span style="text-decoration: underline">If you want a Microsoft Word version, I don't want to work with you.</span>
 			</p>
 			<p>
 				You can also clone my resume with <a href="http://git-scm.com">Git</a> by running:
