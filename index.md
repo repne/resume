@@ -3,7 +3,7 @@ title: repne's resume
 layout: index
 ---
 
-# Resume #
+# About me #
 
 #### tl;dr ####
 
