@@ -42,14 +42,20 @@ My interest about the web introduced me to **PHP** and **Javascript** in the ear
 
 #### Job 2 ####
 
-Web development slowly became my main hobby and I started with my first web developer position (<abbr title="Yoox S.p.a., Bologna, Italy">Yoox, 2010-</abbr>) in January 2010.
-My job consists mainly in **SoA** and **web APIs** design on the **Microsoft stack** <dfn>(ASP.net MVC, C#)</dfn>, I'm in charge of architecturing and developing **distributed** applications in **C#** on the **.net Framework** that are succesfully handling millions of requests per hour.
-Scrum is part of my daily routine but I'm used to XP and KanBan too.
-I approach software development mainly with **<acronym title="Test Driven Development">TDD</acronym>** and **<acronym title="Behavior Driven Development">BDD</acronym>**, always in continuous integration.
+Web development slowly became my main hobby and I started with my first web developer position (<abbr title="Yoox S.p.a., Bologna, Italy">Yoox, 2010-2012</abbr>) in January 2010.
+My job consisted mainly in **SoA** and **web APIs** design on the **Microsoft stack** <dfn>(ASP.net MVC, C#)</dfn>, I was in charge of architecturing and developing **distributed** applications in **C#** on the **.net Framework** that are succesfully handling millions of requests per hour.
+Scrum was part of my daily routine but I'm used to XP and KanBan too.
+I approached software development mainly with **<acronym title="Test Driven Development">TDD</acronym>** and **<acronym title="Behavior Driven Development">BDD</acronym>**, always in continuous integration.
 
-#### Today (and tomorrow) ####
+#### 2011-2012 ####
 
 But right now, I spend the nights working on web apps that uses technologies such as **Tornado**, **Node.js**, **Redis**, **MongoDB**, **RabbitMQ** and **Memcached** running (mainly) on **Amazon AWS**.
 I've moved away from **AppEngine** after 2 years of experience.
 In the choice of a stack I opted to have as many movable parts as possibile, the more heterogeneous the better; this is usually a mistake for production applications but my choice was based on the fact that there is a lot to learn this way, and learning is *fun!*
 
+#### Job 3 ####
+
+Moving to Milan for a Software Architect position (<abbr title="DocFlow S.p.a., Milano, Italy">DocFlow, 2012-</abbr>) has been a great challenge. My job is to introduce agile methodologies, coordinate two teams of developers, refactoring & redesigning the whole web platform of the company, architect and lead developer of the most strategically important project of the company. As an architect, I'm working both on the backend (**C#**) and the frontend (**HTML5**, **CSS**, **Javascript**, **KnockoutJs**, **AmplifyJs**, **Bootstrap**) developing mostly the frontend part while reviewing and gluing together the backend part.
+
+#### Today (and tomorrow) ####
+I took a long break from the IT world this summer and picked up many sports like sailing and bicycling (I bought a bicycle and travelled from Milan, Italy to Santander, Spain in 20 days, 1842 Km -_-). But right now I'm experimenting with the new Windows 8 metro style apps (**Javascript**, **CSS**, **HTML5**), studying **Redis** source code (I had this crazy idea about a Linux kernel module) and increasing my knowledge about UX and UI design. November is also the month of NaNoWriMo (www.nanowrimo.org) and I accepted the challenge :)
