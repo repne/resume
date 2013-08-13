@@ -24,7 +24,7 @@ That's why I'm looking for a dynamic and young environment with people passionat
 I've been working as a web developer at (<abbr title="JustGiving, London, United Kingdom">JustGiving, 2013-</abbr>) after having moved to London.
 
 #### 2012-2013 ####
-I took a long break from the IT world this summer and picked up many sports like sailing and bicycling (I bought a bicycle and travelled from Milan, Italy to Santander, Spain in 20 days, 1842 Km -_-). But I've also been experimenting with the new Windows 8 metro style apps (**Javascript**, **CSS**, **HTML5**), studying **Redis** source code (I had this crazy idea about a Linux kernel module that miserably failed) and increased my knowledge about UX and UI design.
+I took a long break from the computers this summer and picked up many sports like sailing and cycling (I bought a bicycle and travelled from Milan, Italy to Santander, Spain in 20 days, 1842 Km -_-). But I've also been experimenting with the new Windows 8 metro style apps (**Javascript**, **CSS**, **HTML5**), studying **Redis** source code (I had this crazy idea about a Linux kernel module that miserably failed) and increased my knowledge about UX and UI design.
 
 #### Job 3 ####
 
@@ -32,7 +32,7 @@ Moving to Milan for a Software Architect position (<abbr title="DocFlow S.p.a., 
 
 #### 2011-2012 ####
 
-But right now, I spend the nights working on web apps that uses technologies such as **Tornado**, **Node.js**, **Redis**, **MongoDB**, **RabbitMQ** and **Memcached** running (mainly) on **Amazon AWS**.
+I spent the nights working on web apps that used technologies such as **Tornado**, **Node.js**, **Redis**, **MongoDB**, **RabbitMQ** and **Memcached** running (mainly) on **Amazon AWS**.
 I've moved away from **AppEngine** after 2 years of experience.
 In the choice of a stack I opted to have as many movable parts as possible, the more heterogeneous the better; this is usually a mistake for production applications but my choice was based on the fact that there is a lot to learn this way, and learning is *fun!*
 
