@@ -21,7 +21,7 @@ That's why I'm looking for a dynamic and young environment with people passionat
 
 #### Job 4 ####
 
-I've been working as a web developer at (<abbr title="JustGiving, London, United Kingdom">JustGiving, 2013-</abbr>) after having moved to London.
+I moved to London to work with (<abbr title="JustGiving, London, United Kingdom">JustGiving, 2013-</abbr>) on the new donation process first and the new search later. My work improved the conversion rate and the performance of the website by a considerable amount. I spent the rest of my time teaching people new skills and improving the development/release cycle of the platform.
 
 #### 2012-2013 ####
 I took a long break from the computers this summer and picked up many sports like sailing and cycling (I bought a bicycle and travelled from Milan, Italy to Santander, Spain in 20 days, 1842 Km -_-). But I've also been experimenting with the new Windows 8 metro style apps (**Javascript**, **CSS**, **HTML5**), studying **Redis** source code (I had this crazy idea about a Linux kernel module that miserably failed) and increased my knowledge about UX and UI design.
