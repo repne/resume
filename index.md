@@ -34,7 +34,7 @@ I took a long break from the computers this summer and picked up many sports lik
 
 #### Job 3 ####
 
-Moving to Milan for a Software Architect position (<abbr title="DocFlow S.p.a., Milano, Italy">DocFlow, 2012-</abbr>) has been a great challenge. My job was to introduce agile methodologies, coordinate two teams of developers, refactoring & redesigning the whole web platform of the company, architect and lead developer of the most strategically important project of the company. As an architect, I was working both on the backend (**C#**) and the frontend (**HTML5**, **CSS**, **Javascript**, **KnockoutJs**, **AmplifyJs**, **Bootstrap**) developing mostly the frontend part while reviewing, designing and gluing together the backend part.
+Moving to Milan for a Software Architect position (<abbr title="DocFlow S.p.a., Milano, Italy">DocFlow, 2012-2013</abbr>) has been a great challenge. My job was to introduce agile methodologies, coordinate two teams of developers, refactoring & redesigning the whole web platform of the company, architect and lead developer of the most strategically important project of the company. As an architect, I was working both on the backend (**C#**) and the frontend (**HTML5**, **CSS**, **Javascript**, **KnockoutJs**, **AmplifyJs**, **Bootstrap**) developing mostly the frontend part while reviewing, designing and gluing together the backend part.
 
 #### 2011-2012 ####
 
