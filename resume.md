@@ -4,41 +4,41 @@
 
 > I love programming, scalability, challenge and learning.
 > I've mastered C# and C++, I'm really good at Python and Javascript and I'm fluent in many more languages like C and PHP (next on my to-do list is Haskell).
-> I don't mind the toolset used if it's the right one for the job and I'm totally ok in learning new technologies.
+> I am flexible with the toolset used if it's the right one for the job and I'm totally open to learning new technologies.
 > I'm using both Windows and Linux.
 > I have key experience in big data, natural language processing, ecommerce and cloud architectures.
 > I want to join an enthusiastic and passionate team.
-> Fast pace environments doesn't scare me.
+> Fast pace environments don't scare me.
 > I roll-my-own for personal projects (I want to learn) and connect-the-dots + roll-my-own-when-needed for professional projects (I want to deliver).
 
 #### Me ####
 
 Hello, my name is Antonio Fiumanò, I was born in Italy in October 1, 1985, I'm a **software architect** and **developer** in a wide variety of applications but my *current* focus is on web applications because designing and building scalable, distributed applications on the cloud is challenging and challenge is *fun!*
 
-Although I have **10 years of professional experience**, I have never worked a single day of my life.
-I *love* programming, heck, I've been programming since I was 9 years old, it's my passion and my stress reliever, my obsession and my main hobby.
+Although I have **10 years' of professional experience**, I have never worked a single day of my life.
+I *love* programming, heck, I've been programming since I was 9 years old, it's my passion and my stress reliever, my obsession and my hobby.
 That's why I'm looking for a dynamic and young environment with people passionate like me, people I could learn from.
 
 #### Job 4 ####
 
-I moved to London to work with (<abbr title="JustGiving, London, United Kingdom">JustGiving, 2013-</abbr>) on the new donation process first and the new search later. My work improved the conversion rate and the performance of the website by a considerable amount. I spent the rest of my time teaching people new skills and improving the development/release cycle of the platform.
+I moved to London to work with (<abbr title="JustGiving, London, United Kingdom">JustGiving, 2013-</abbr>) on the new mobile focused donation process and the new universal elastic search. My work improved the conversion rate and the performance of the website by a considerable amount. I spent the rest of my time teaching people new skills and improving the development/release cycle of the platform.
 
 #### 2012-2013 ####
 I took a long break from the computers this summer and picked up many sports like sailing and cycling (I bought a bicycle and travelled from Milan, Italy to Santander, Spain in 20 days, 1842 Km -_-). But I've also been experimenting with the new Windows 8 metro style apps (**Javascript**, **CSS**, **HTML5**), studying **Redis** source code (I had this crazy idea about a Linux kernel module that miserably failed) and increased my knowledge about UX and UI design.
 
 #### Job 3 ####
 
-Moving to Milan for a Software Architect position (<abbr title="DocFlow S.p.a., Milano, Italy">DocFlow, 2012-2013</abbr>) has been a great challenge. My job was to introduce agile methodologies, coordinate two teams of developers, refactoring & redesigning the whole web platform of the company, architect and lead developer of the most strategically important project of the company. As an architect, I was working both on the backend (**C#**) and the frontend (**HTML5**, **CSS**, **Javascript**, **KnockoutJs**, **AmplifyJs**, **Bootstrap**) developing mostly the frontend part while reviewing, designing and gluing together the backend part.
+Moving to Milan for a Software Architect position (<abbr title="DocFlow S.p.a., Milano, Italy">DocFlow, 2012-2013</abbr>) has been a great challenge. My job was to introduce agile methodologies, coordinate two teams of developers, refactoring & redesigning the whole web platform of the company, architect and lead developer of the most strategically important project of the company. As an architect, I was working both on the backend (**C#**) and the frontend (**HTML5**, **CSS**, **JavaScript**, **KnockoutJs**, **AmplifyJs**, **Bootstrap**) developing mostly the frontend part while reviewing, designing and gluing together the backend part.
 
 #### 2011-2012 ####
 
-I spent the nights working on web apps that used technologies such as **Tornado**, **Node.js**, **Redis**, **MongoDB**, **RabbitMQ** and **Memcached** running (mainly) on **Amazon AWS**.
+I spent nights working on web apps that used technologies such as **Tornado**, **Node.js**, **Redis**, **MongoDB**, **RabbitMQ** and **Memcached** running (mainly) on **Amazon AWS**.
 I've moved away from **AppEngine** after 2 years of experience.
 In the choice of a stack I opted to have as many movable parts as possible, the more heterogeneous the better; this is usually a mistake for production applications but my choice was based on the fact that there is a lot to learn this way, and learning is *fun!*
 
 #### Job 2 ####
 
-Web development slowly became my main hobby and I started with my first web developer position (<abbr title="Yoox S.p.a., Bologna, Italy">Yoox, 2010-2012</abbr>) in January 2010.
+Web development slowly became my hobby and I started with my first web developer position (<abbr title="Yoox S.p.a., Bologna, Italy">Yoox, 2010-2012</abbr>) in January 2010.
 My job consisted mainly in **SoA** and **web APIs** design on the **Microsoft stack** <dfn>(ASP.net MVC, C#)</dfn>, I was in charge of architecting and developing **distributed** applications in **C#** on the **.net Framework** that are successfully handling millions of requests per hour.
 Scrum was part of my daily routine but I'm used to XP and KanBan too.
 I approached software development mainly with **<acronym title="Test Driven Development">TDD</acronym>** and **<acronym title="Behavior Driven Development">BDD</acronym>**, always in continuous integration.
