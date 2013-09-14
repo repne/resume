@@ -24,14 +24,14 @@ Although I have **10 years of professional experience**, I have never worked a s
 I *love* programming, heck, I've been programming since I was 9 years old, it's my passion and my stress reliever, my obsession and my hobby.
 That's why I'm looking for a dynamic and young environment with people passionate like me, people I could learn from.
 
-#### Job 4 ####
+#### JustGiving ####
 
 I moved to London to work with (<abbr title="JustGiving, London, United Kingdom">JustGiving, 2013-</abbr>) on the new mobile focused donation process and the new universal search. My work improved the conversion rate and the performance of the website by a considerable amount. I spent the rest of my time teaching people new skills and improving the development/release cycle of the platform.
 
 #### 2012-2013 ####
 I took a long break from the computers this summer and picked up many sports like sailing and cycling (I bought a bicycle and travelled from Milan, Italy to Santander, Spain in 20 days, 1842 Km -_-). But I've also been experimenting with the new Windows 8 metro style apps (**Javascript**, **CSS**, **HTML5**), studying **Redis** source code (I had this crazy idea about a Linux kernel module that miserably failed) and increased my knowledge about UX and UI design.
 
-#### Job 3 ####
+#### DocFlow ####
 
 Moving to Milan for a Software Architect position (<abbr title="DocFlow S.p.a., Milano, Italy">DocFlow, 2012-2013</abbr>) has been a great challenge. My job was to introduce agile methodologies, coordinate two teams of developers, refactoring & redesigning the whole web platform of the company, architect and lead developer of the most strategically important project of the company. As an architect, I was working both on the backend (**C#**) and the frontend (**HTML5**, **CSS**, **JavaScript**, **KnockoutJs**, **AmplifyJs**, **Bootstrap**) developing mostly the frontend part while reviewing, designing and gluing together the backend part.
 
@@ -41,7 +41,7 @@ I spent nights working on web apps that used technologies such as **Tornado**, *
 I've moved away from **AppEngine** after 2 years of experience.
 In the choice of a stack I opted to have as many movable parts as possible, the more heterogeneous the better; this is usually a mistake for production applications but my choice was based on the fact that there is a lot to learn this way, and learning is *fun!*
 
-#### Job 2 ####
+#### Yoox ####
 
 Web development slowly became my hobby and I started with my first web developer position (<abbr title="Yoox S.p.a., Bologna, Italy">Yoox, 2010-2012</abbr>) in January 2010.
 My job consisted mainly in **SoA** and **web APIs** design on the **Microsoft stack** <dfn>(ASP.net MVC, C#)</dfn>, I was in charge of architecting and developing **distributed** applications in **C#** on the **.net Framework** that are successfully handling millions of requests per hour.
@@ -53,14 +53,14 @@ I approached software development mainly with **<acronym title="Test Driven Deve
 Meanwhile in My-Spare-Time my focus shifted forth and back between **games development**, **script languages implementations** and **drivers development** (Linux and Windows, 3Dfx Glide, mesa/dri) but in **2008** I refreshed my **HTML** skills and finally settled on web development.
 My interest about the web introduced me to **PHP** and **Javascript** in the early days of DHTML, but the languages of choice this time were **C#** <dfn>(ASP.net, ASP.net MVC)</dfn> because I knew it and **Python** <dfn>(AppEngine, Django)</dfn> because I fell in love with it.
 
-#### Job 1 ####
+#### Expert System ####
 
 Then I got my second job (<abbr title="Expert System S.p.a., Modena, Italy">Expert System, 2004-2010</abbr>), which introduced me to **Semantics and Linguistics**.
 Still today **Natural Language Processing** along with **Information Retrieval** are two of my interests.
 I've successfully delivered a wide range of server and client applications for the **Windows** and **Linux** platforms using mainly **C++**, **MFC**, **boost** and later **C#**.
 My love for algorithms and data structures plus my obsessive perfectionism pushed me to came up with my own take on prefix trees for fast dictionary lookup.
 
-#### Job 0 ####
+#### Milo ####
 
 My first job (<abbr title="Milo S.a.s, Modena, Italy">Milo, 2003-2004</abbr>) at the age of 17 had me involved as the **lead developer** of a **real time debugger** for microcontrollers <dfn>(USB, RS-232, GPS tracking system)</dfn> using **C** and **C++**.
 
