@@ -1,9 +1,9 @@
 ---
-title: repne's resume
+title: Antonio Fiumanò's resume
 layout: index
 ---
 
-# About me #
+# Antonio Fiumanò #
 
 #### tl;dr ####
 
