@@ -3,21 +3,21 @@
 #### tl;dr ####
 
 > I love programming, scalability, challenge and learning.
-> I've mastered C# and C++, I'm really good at Python and Javascript and I'm fluent in many more languages like C and PHP (next on my to-do list is Haskell).
+> I've mastered C# and C++, I'm really good at Python and Javascript and I'm fluent in many more languages like C and PHP.
 > I am flexible with the toolset used if it's the right one for the job and I'm totally open to learning new technologies.
 > I'm using both Windows and Linux.
 > I have key experience in big data, natural language processing, ecommerce and cloud architectures.
 > I want to join an enthusiastic and passionate team.
 > Fast pace environments don't scare me.
-> I roll-my-own for personal projects (I want to learn) and connect-the-dots + roll-my-own-when-needed for professional projects (I want to deliver).
+> I roll-my-own for personal projects (I want to learn) and connect-the-dots for professional projects (I want to deliver).
 
 #### Me ####
 
 Hi, my name is Antonio Fiumanò, I was born in Italy in October 1, 1985, I'm a **software architect** and **developer** in a wide variety of applications but my *current* focus is on web applications because designing and building scalable, distributed applications on the cloud is challenging and challenge is *fun!*
 
 Although I have **10 years of professional experience**, I have never worked a single day of my life.
-I *love* programming, heck, I've been programming since I was 9 years old, it's my passion and my stress reliever, my obsession and my hobby.
-That's why I'm looking for a dynamic and young environment with people passionate like me, people I could learn from.
+I *love* programming, heck, I've been programming since I was 9 years old, it's my passion and my stress relief, my obsession and my hobby.
+That's why I'm looking for a dynamic and young environment with passionate people like me, people I could learn from.
 
 #### JustGiving ####
 
