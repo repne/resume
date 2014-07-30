@@ -8,38 +8,33 @@ layout: index
 #### tl;dr ####
 
 > I love programming, scalability, challenge and learning.
-> I've mastered C# and C++, I'm really good at Python and Javascript and I'm fluent in many more languages like C and PHP (next on my to-do list is Haskell).
+> I've mastered C# and C++, I'm really good at Python and Javascript and I'm fluent in many more languages like C and PHP.
 > I am flexible with the toolset used if it's the right one for the job and I'm totally open to learning new technologies.
 > I'm using both Windows and Linux.
 > I have key experience in big data, natural language processing, ecommerce and cloud architectures.
 > I want to join an enthusiastic and passionate team.
 > Fast pace environments don't scare me.
-> I roll-my-own for personal projects (I want to learn) and connect-the-dots + roll-my-own-when-needed for professional projects (I want to deliver).
+> I roll-my-own for personal projects (I want to learn) and connect-the-dots for professional projects (I want to deliver).
 
 #### Me ####
 
 Hi, my name is Antonio Fiumanò, I was born in Italy in October 1, 1985, I'm a **software architect** and **developer** in a wide variety of applications but my *current* focus is on web applications because designing and building scalable, distributed applications on the cloud is challenging and challenge is *fun!*
 
 Although I have **10 years of professional experience**, I have never worked a single day of my life.
-I *love* programming, heck, I've been programming since I was 9 years old, it's my passion and my stress reliever, my obsession and my hobby.
-That's why I'm looking for a dynamic and young environment with people passionate like me, people I could learn from.
+I *love* programming, heck, I've been programming since I was 9 years old, it's my passion and my stress relief, my obsession and my hobby.
+That's why I'm looking for a dynamic and young environment with passionate people like me, people I could learn from.
+
+### Professional Experience ###
+
+#### 1E ####
 
 #### JustGiving ####
 
 I moved to London to work with (<abbr title="JustGiving, London, United Kingdom">JustGiving, 2013-</abbr>) on the new mobile focused donation process and the new universal search. My work improved the conversion rate and the performance of the website by a considerable amount. I spent the rest of my time teaching people new skills and improving the development/release cycle of the platform.
 
-#### 2012-2013 ####
-I took a long break from the computers this summer and picked up many sports like sailing and cycling (I bought a bicycle and travelled from Milan, Italy to Santander, Spain in 20 days, 1842 Km -_-). But I've also been experimenting with the new Windows 8 metro style apps (**Javascript**, **CSS**, **HTML5**), studying **Redis** source code (I had this crazy idea about a Linux kernel module that miserably failed) and increased my knowledge about UX and UI design.
-
 #### DocFlow ####
 
 Moving to Milan for a Software Architect position (<abbr title="DocFlow S.p.a., Milano, Italy">DocFlow, 2012-2013</abbr>) has been a great challenge. My job was to introduce agile methodologies, coordinate two teams of developers, refactoring & redesigning the whole web platform of the company, architect and lead developer of the most strategically important project of the company. As an architect, I was working both on the backend (**C#**) and the frontend (**HTML5**, **CSS**, **JavaScript**, **KnockoutJs**, **AmplifyJs**, **Bootstrap**) developing mostly the frontend part while reviewing, designing and gluing together the backend part.
-
-#### 2011-2012 ####
-
-I spent nights working on web apps that used technologies such as **Tornado**, **Node.js**, **Redis**, **MongoDB**, **RabbitMQ** and **Memcached** running (mainly) on **Amazon AWS**.
-I've moved away from **AppEngine** after 2 years of experience.
-In the choice of a stack I opted to have as many movable parts as possible, the more heterogeneous the better; this is usually a mistake for production applications but my choice was based on the fact that there is a lot to learn this way, and learning is *fun!*
 
 #### Yoox ####
 
@@ -47,11 +42,6 @@ Web development slowly became my hobby and I started with my first web developer
 My job consisted mainly in **SoA** and **web APIs** design on the **Microsoft stack** <dfn>(ASP.net MVC, C#)</dfn>, I was in charge of architecting and developing **distributed** applications in **C#** on the **.net Framework** that are successfully handling millions of requests per hour.
 Scrum was part of my daily routine but I'm used to XP and KanBan too.
 I approached software development mainly with **<acronym title="Test Driven Development">TDD</acronym>** and **<acronym title="Behavior Driven Development">BDD</acronym>**, always in continuous integration.
-
-#### 2004-2011 ####
-
-Meanwhile in My-Spare-Time my focus shifted forth and back between **games development**, **script languages implementations** and **drivers development** (Linux and Windows, 3Dfx Glide, mesa/dri) but in **2008** I refreshed my **HTML** skills and finally settled on web development.
-My interest about the web introduced me to **PHP** and **Javascript** in the early days of DHTML, but the languages of choice this time were **C#** <dfn>(ASP.net, ASP.net MVC)</dfn> because I knew it and **Python** <dfn>(AppEngine, Django)</dfn> because I fell in love with it.
 
 #### Expert System ####
 
@@ -63,6 +53,25 @@ My love for algorithms and data structures plus my obsessive perfectionism pushe
 #### Milo ####
 
 My first job (<abbr title="Milo S.a.s, Modena, Italy">Milo, 2003-2004</abbr>) at the age of 17 had me involved as the **lead developer** of a **real time debugger** for microcontrollers <dfn>(USB, RS-232, GPS tracking system)</dfn> using **C** and **C++**.
+
+### Personal Experience ###
+
+#### 2013-2014 ####
+
+#### 2012-2013 ####
+
+I took a long break from the computers this summer and picked up many sports like sailing and cycling (I bought a bicycle and travelled from Milan, Italy to Santander, Spain in 20 days, 1842 Km -_-). But I've also been experimenting with the new Windows 8 metro style apps (**Javascript**, **CSS**, **HTML5**), studying **Redis** source code (I had this crazy idea about a Linux kernel module that miserably failed) and increased my knowledge about UX and UI design.
+
+#### 2011-2012 ####
+
+I spent nights working on web apps that used technologies such as **Tornado**, **Node.js**, **Redis**, **MongoDB**, **RabbitMQ** and **Memcached** running (mainly) on **Amazon AWS**.
+I've moved away from **AppEngine** after 2 years of experience.
+In the choice of a stack I opted to have as many movable parts as possible, the more heterogeneous the better; this is usually a mistake for production applications but my choice was based on the fact that there is a lot to learn this way, and learning is *fun!*
+
+#### 2004-2011 ####
+
+Meanwhile in My-Spare-Time my focus shifted forth and back between **games development**, **script languages implementations** and **drivers development** (Linux and Windows, 3Dfx Glide, mesa/dri) but in **2008** I refreshed my **HTML** skills and finally settled on web development.
+My interest about the web introduced me to **PHP** and **Javascript** in the early days of DHTML, but the languages of choice this time were **C#** <dfn>(ASP.net, ASP.net MVC)</dfn> because I knew it and **Python** <dfn>(AppEngine, Django)</dfn> because I fell in love with it.
 
 #### 1994-2004 ####
 
