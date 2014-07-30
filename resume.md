@@ -13,7 +13,7 @@
 
 #### Me ####
 
-Hi, my name is Antonio Fiumanò, I was born in Italy in October 1, 1985, I'm a **software architect** and **developer** in a wide variety of applications but my *current* focus is on web applications and services because designing and building scalable, distributed applications on the cloud is challenging and challenge is *fun!*
+Hello, my name is Antonio Fiumanò, I was born in Italy in October 1, 1985, I'm a **software architect** and **developer** in a wide variety of applications but my *current* focus is on web applications and services because designing and building scalable, distributed applications on the cloud is challenging and challenge is *fun!*
 
 Although I have **10 years of professional experience**, I have never worked a single day of my life.
 I *love* programming, heck, I've been programming since I was 9 years old, it's my passion and my stress relief, my obsession and my hobby.
@@ -27,7 +27,7 @@ Currently working on a cloud based virtual machine delivery solution for impleme
 
 #### JustGiving ####
 
-I moved to London to work with (<abbr title="JustGiving, London, United Kingdom">JustGiving, 2013-</abbr>) on the new mobile focused donation process and the new universal search. My work improved the conversion rate and the performance of the website by a considerable amount. I spent the rest of my time teaching people new skills and improving the development/release cycle of the platform.
+I moved to London to work with (<abbr title="JustGiving, London, United Kingdom">JustGiving, 2013-2014</abbr>) on the new mobile focused donation process and the new universal search. My work improved the conversion rate and the performance of the website by a considerable amount. I spent the rest of my time teaching people new skills and improving the development/release cycle of the platform.
 
 #### DocFlow ####
 
