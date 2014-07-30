@@ -16,7 +16,7 @@
         {
             border: 0;
         }
-        p, blockquote, pre, code, samp, dl, ol, ul, h4
+        p, blockquote, pre, code, samp, dl, ol, ul, h3, h4
         {
             margin: 0 0 1.625em;
         }
@@ -37,13 +37,6 @@
             font-size: 2.625em;
             line-height: 1.2381em;
             margin: 0 0 0.619em;
-        }
-        h3
-        {
-            font-size: 2.625em;
-            line-height: 1.2381em;
-            margin: 0 0 0.619em;
-            font-weight: 700;
         }
         pre
         {
@@ -104,6 +97,16 @@
         #content
         {
             margin-top: 16px;
+        }
+        #content h3
+        {
+	    position:relative;
+	    margin-left: 0;
+	    float: none;
+	    text-align: left;
+	    font-weight: 700;
+	    color: #444;
+	    width: auto;
         }
         #content h4
         {
@@ -189,6 +192,16 @@
             #forkme, #buttons
             {
                 display: none;
+            }
+            #content h3
+            {
+                position:relative;
+                margin-left: 0;
+                float: none;
+                text-align: left;
+                font-weight: 700;
+                color: #444;
+                width: auto;
             }
             #content h4
             {
