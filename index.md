@@ -18,7 +18,7 @@ layout: index
 
 #### Me ####
 
-Hi, my name is Antonio Fiumanò, I was born in Italy in October 1, 1985, I'm a **software architect** and **developer** in a wide variety of applications but my *current* focus is on web applications because designing and building scalable, distributed applications on the cloud is challenging and challenge is *fun!*
+Hi, my name is Antonio Fiumanò, I was born in Italy in October 1, 1985, I'm a **software architect** and **developer** in a wide variety of applications but my *current* focus is on web applications and services because designing and building scalable, distributed applications on the cloud is challenging and challenge is *fun!*
 
 Although I have **10 years of professional experience**, I have never worked a single day of my life.
 I *love* programming, heck, I've been programming since I was 9 years old, it's my passion and my stress relief, my obsession and my hobby.
@@ -27,6 +27,8 @@ That's why I'm looking for a dynamic and young environment with passionate peopl
 ### Professional Experience ###
 
 #### 1E ####
+
+Currently working on a cloud based virtual machine delivery solution for implementing "Bring Your Own Device" policies. I've been developing on the **Azure** backend using **C#** and the client in **C++** for low level or high performance functionalities (encription, drivers, compression, etc...).
 
 #### JustGiving ####
 
@@ -57,6 +59,8 @@ My first job (<abbr title="Milo S.a.s, Modena, Italy">Milo, 2003-2004</abbr>) at
 ### Personal Experience ###
 
 #### 2013-2014 ####
+
+I wrote a kernel driver (**KMDF**, **HID**, **USB**) in **C** for Windows 8.1 in order to implement a multi touch functionality (with gestures) for my MacBook Pro because the Apple driver for Windows is extremely basic and lacking. I've also been writing small single page web apps using **AngularJS**.
 
 #### 2012-2013 ####
 
