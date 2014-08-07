@@ -45,7 +45,7 @@ This is the job that introduced me to **Semantics and Linguistics** and still to
 I've successfully delivered a wide range of server and client applications for the **Windows** and **Linux** platforms using mainly **C++**, **MFC**, **boost** and later **C#**.
 My love for algorithms and data structures plus my obsessive perfectionism pushed me to came up with my own take on prefix trees for fast dictionary lookup.
 
-#### Milo - 2003 ####
+#### Milo, Modena - 2003 ####
 
 My first job at the age of 17 had me involved as the **lead developer** of a **real time debugger** for microcontrollers <dfn>(USB, RS-232, GPS tracking system)</dfn> using **C** and **C++**.
 
