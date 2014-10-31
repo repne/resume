@@ -58,6 +58,10 @@ My first job (<abbr title="Milo S.a.s, Modena, Italy">Milo, 2003-2004</abbr>) at
 
 ### Personal Experience ###
 
+#### 2014 - ####
+
+Currently researching and studying Machine Learning problems, specifically Recurrent Neural Network, closely following  recent developments  and publications (the work of Hinton and Sutskever in particular, those guys are my heroes).
+
 #### 2013-2014 ####
 
 I wrote a kernel driver (**KMDF**, **HID**, **USB**) in **C** for Windows 8.1 in order to implement a multi touch functionality (with gestures) for my MacBook Pro because the Apple driver for Windows is extremely basic and lacking. I've also been writing small single page web apps using **AngularJS**.
