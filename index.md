@@ -28,7 +28,7 @@ That's why I'm looking for a dynamic and young environment with passionate peopl
 
 #### 1E ####
 
-Currently working on a cloud based virtual machine delivery solution for implementing "Bring Your Own Device" policies. I've been developing on the **Azure** backend using **C#** and the client in **C++** for low level or high performance functionalities (encription, drivers, compression, etc...).
+Currently working on a cloud based virtual machine delivery solution for implementing "Bring Your Own Device" policies. I've been developing on the **Azure** backend using **C#** and the virtualization engine in **C++** for low level or high performance functionalities (encryption, drivers, compression, etc...).
 
 #### JustGiving ####
 
