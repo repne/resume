@@ -54,7 +54,7 @@ My love for algorithms and data structures plus my obsessive perfectionism pushe
 
 #### Milo ####
 
-My first job (<abbr title="Milo S.a.s, Modena, Italy">Milo, 2003-2004</abbr>) at the age of 17 had me involved as the **lead developer** of a **real time debugger** for microcontrollers <dfn>(USB, RS-232, GPS tracking system)</dfn> using **C** and **C++**.
+My first job (<abbr title="Milo S.a.s, Modena, Italy">Milo, 2003-2004</abbr>) at the age of 17 had me involved as the **developer** of a **real time debugger** for microcontrollers <dfn>(USB, RS-232, GPS tracking system)</dfn> using **C** and **C++**.
 
 ### Personal Experience ###
 
