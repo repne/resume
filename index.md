@@ -18,7 +18,7 @@ layout: index
 
 #### Me ####
 
-Hi, my name is Antonio Fiumanò, I was born in Italy in October 1, 1985, I'm a **developer** in a wide variety of applications but my *current* focus is on web applications and services because designing and building scalable, distributed applications on the cloud is challenging and challenge is *fun!*
+Hello, my name is Antonio Fiumanò, I was born in Italy in October 1, 1985, I'm a **software architect** and **developer** in a wide variety of applications but my *current* focus is on web applications and services because designing and building scalable, distributed applications on the cloud is challenging and challenge is *fun!*
 
 Although I have **10 years of professional experience**, I have never worked a single day of my life.
 I *love* programming, heck, I've been programming since I was 9 years old, it's my passion and my stress relief, my obsession and my hobby.
@@ -26,41 +26,35 @@ That's why I'm looking for a dynamic and young environment with passionate peopl
 
 ### Professional Experience ###
 
-#### 1E ####
+#### 1E, London - 2014 ####
 
-Currently working on a cloud based virtual machine delivery solution for implementing "Bring Your Own Device" policies. I've been developing on the **Azure** backend using **C#** and the virtualization engine in **C++** for low level or high performance functionalities (encryption, drivers, compression, etc...).
+Currently working on a cloud based virtual machine delivery solution for implementing "Bring Your Own Device" policies. I've been developing on the **Azure** backend using **C#** and the client in **C++** for low level or high performance functionalities (encription, drivers, compression, etc...).
 
-#### JustGiving ####
+#### JustGiving, London - 2013 ####
 
-I moved to London to work with (<abbr title="JustGiving, London, United Kingdom">JustGiving, 2013-</abbr>) on the new mobile focused donation process and the new universal search. My work improved the conversion rate and the performance of the website by a considerable amount. I spent the rest of my time teaching people new skills and improving the development/release cycle of the platform.
+I worked on the new mobile focused donation process and the new universal search. My work improved the conversion rate and the performance of the website by a considerable amount. I spent the rest of my time teaching people new skills and improving the development/release cycle of the platform.
 
-#### DocFlow ####
+#### DocFlow, Milan - 2012 ####
 
-Moving to Milan for a Software Architect position (<abbr title="DocFlow S.p.a., Milano, Italy">DocFlow, 2012-2013</abbr>) has been a great challenge. My job was to introduce agile methodologies, coordinate two teams of developers, refactoring & redesigning the whole web platform of the company, architect and lead developer of the most strategically important project of the company. As an architect, I was working both on the backend (**C#**) and the frontend (**HTML5**, **CSS**, **JavaScript**, **KnockoutJs**, **AmplifyJs**, **Bootstrap**) developing mostly the frontend part while reviewing, designing and gluing together the backend part.
+My job was to introduce agile methodologies, coordinate two teams of developers, refactor & redesign of the web platform, architect and lead developer of the most strategically important project of the company. As an architect, I was working both on the backend (**C#**) and the frontend (**HTML5**, **CSS**, **JavaScript**, **KnockoutJs**, **AmplifyJs**, **Bootstrap**) developing mostly the frontend part while reviewing, designing and gluing together the backend part.
 
-#### Yoox ####
+#### Yoox, Bologna - 2010-2012 ####
 
-Web development slowly became my hobby and I started with my first web developer position (<abbr title="Yoox S.p.a., Bologna, Italy">Yoox, 2010-2012</abbr>) in January 2010.
 My job consisted mainly in **SoA** and **web APIs** design on the **Microsoft stack** <dfn>(ASP.net MVC, C#)</dfn>, I was in charge of architecting and developing **distributed** applications in **C#** on the **.net Framework** that are successfully handling millions of requests per hour.
 Scrum was part of my daily routine but I'm used to XP and KanBan too.
 I approached software development mainly with **<acronym title="Test Driven Development">TDD</acronym>** and **<acronym title="Behavior Driven Development">BDD</acronym>**, always in continuous integration.
 
-#### Expert System ####
+#### Expert System, Modena - 2004-2010 ####
 
-Then I got my second job (<abbr title="Expert System S.p.a., Modena, Italy">Expert System, 2004-2010</abbr>), which introduced me to **Semantics and Linguistics**.
-Still today **Natural Language Processing** along with **Information Retrieval** are two of my interests.
+This is the job that introduced me to **Semantics and Linguistics** and still today **Natural Language Processing** along with **Information Retrieval** are two of my main interests.
 I've successfully delivered a wide range of server and client applications for the **Windows** and **Linux** platforms using mainly **C++**, **MFC**, **boost** and later **C#**.
 My love for algorithms and data structures plus my obsessive perfectionism pushed me to came up with my own take on prefix trees for fast dictionary lookup.
 
-#### Milo ####
+#### Milo, Modena - 2003 ####
 
-My first job (<abbr title="Milo S.a.s, Modena, Italy">Milo, 2003-2004</abbr>) at the age of 17 had me involved as the **developer** of a **real time debugger** for microcontrollers <dfn>(USB, RS-232, GPS tracking system)</dfn> using **C** and **C++**.
+My first job at the age of 17 had me involved as the **lead developer** of a **real time debugger** for microcontrollers <dfn>(USB, RS-232, GPS tracking system)</dfn> using **C** and **C++**.
 
 ### Personal Experience ###
-
-#### 2014 - ####
-
-Currently researching and studying Machine Learning problems, specifically Recurrent Neural Network, closely following  recent developments  and publications (the work of Hinton and Sutskever in particular, those guys are my heroes).
 
 #### 2013-2014 ####
 
