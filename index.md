@@ -31,12 +31,12 @@ That's why I'm looking for a dynamic and young environment with passionate peopl
 Currently working on a cloud based virtualization solution for implementing "Bring Your Own Device" policies. I've been developing on the **Azure** backend using **C#** and on the virtualization engine in **C++** for low level or high performance functionalities (encryption, drivers, compression, etc...).
 
 #### JustGiving ####
-2013 - 2014
+2013-2014
 
 Worked on the new mobile focused donation process and the new universal search. My work improved the conversion rate and the performance of the website by a considerable amount. I spent the rest of my time teaching people new skills and improving the development/release cycle of the platform.
 
 #### DocFlow ####
-2012 - 2013
+2012-2013
 
 My job as a Software Architect was to introduce agile methodologies, coordinate two teams of developers, refactoring & redesigning the internal web platform, architect and lead developer of the most strategically important project of the company. I was working both on the backend (**C#**) and the frontend (**HTML5**, **CSS**, **JavaScript**, **KnockoutJs**, **AmplifyJs**, **Bootstrap**) developing mostly the frontend part while reviewing, designing and gluing together the backend.
 
@@ -48,7 +48,7 @@ Scrum was part of my daily routine but I'm used to XP and KanBan too.
 I approached software development mostly with **TDD** and **BDD**, always in continuous integration.
 
 #### Expert System ####
-##### 2004 - 2010 #####
+2004-2010
 
 This job introduced me to **Semantics and Linguistics** and still today **Natural Language Processing** along with **Information Retrieval** are two of my main interests.
 I've successfully delivered a wide range of server and client applications for the **Windows** and **Linux** platforms using mostly  **C++**, **MFC**, **boost** and later **C#**.
