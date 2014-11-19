@@ -51,7 +51,7 @@ I approached software development mostly with **TDD** and **BDD**, always in con
 2004 - 2010
 
 This job introduced me to **Semantics and Linguistics** and still today **Natural Language Processing** along with **Information Retrieval** are two of my main interests.
-I've successfully delivered a wide range of server and client applications for the **Windows** and **Linux** platforms using mostly  **C++**, **MFC**, **boost** and later **C#**.
+I've successfully delivered a wide range of server and client applications for the **Windows** and **Linux** platforms using mostly **C++**, **MFC**, **boost** and later **C#**.
 My love for algorithms and data structures plus my obsessive perfectionism pushed me to come up with my own take on prefix trees for fast dictionary lookup.
 
 #### Milo ####
