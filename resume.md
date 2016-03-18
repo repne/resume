@@ -21,9 +21,15 @@ That's why I'm looking for a dynamic and young environment with passionate peopl
 
 ### Professional Experience ###
 
+#### Mailcloud ####
+
+I've developed applications on the Microsoft Azure stack, using Service Fabric, Orleans, Cloud Services, Storage Services (Tables, Queues, Blobs), Service Bus...
+
+I've implemented core algorithms for data sharding, conflict free replicated data types, load balancing and data streaming with strong eventual consistency.
+
 #### 1E ####
 
-Currently working on a cloud based virtual machine delivery solution for implementing "Bring Your Own Device" policies. I've been developing on the **Azure** backend using **C#** and the virtualization engine in **C++** for low level or high performance functionalities (encryption, drivers, compression, etc...).
+I've worked on a cloud based virtual machine delivery solution for implementing "Bring Your Own Device" policies. I've been developing on the **Azure** backend using **C#** and the virtualization engine in **C++** for low level or high performance functionalities (encryption, drivers, compression, etc...).
 
 #### JustGiving ####
 
@@ -53,9 +59,11 @@ My first job (<abbr title="Milo S.a.s, Modena, Italy">Milo, 2003-2004</abbr>) at
 
 ### Personal Experience ###
 
-#### 2014 - ####
+#### 2014 - 2016 ####
 
-Currently researching and studying Machine Learning problems, specifically Recurrent Neural Network, closely following  recent developments  and publications (the work of Hinton and Sutskever in particular, those guys are my heroes).
+I've built on a mobile app using **React Native**, handling backend calls on Azure using **Microsoft Orleans**, a distributed actor framework, and sharding data based on geo location using a geohash algorithm.
+
+Currently researching and studying Machine Learning problems, specifically Recurrent Neural Network, closely following  recent developments  and publications (the work of Hinton and Sutskever in particular).
 
 #### 2013-2014 ####
 
