@@ -24,7 +24,6 @@ That's why I'm looking for a dynamic and young environment with passionate peopl
 #### Mailcloud ####
 
 I've developed applications on the **Microsoft Azure** stack, using **Service Fabric**, **Orleans**, **Cloud Services**, **Storage Services** (Tables, Queues, Blobs), **Service Bus**...
-
 I've implemented core algorithms for data sharding, conflict free replicated data types (**CRDT**), load balancing and data streaming with strong eventual consistency.
 
 #### 1E ####
