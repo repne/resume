@@ -5,58 +5,56 @@
 > I love programming, scalability, challenge and learning.
 > I've mastered C# and C++, I'm really good at Python and Javascript and I'm fluent in many more languages like C and PHP.
 > I am flexible with the toolset used if it's the right one for the job and I'm totally open to learning new technologies.
-> I'm using both Windows and Linux.
-> I have key experience in big data, natural language processing, ecommerce and cloud architectures.
-> I want to join an enthusiastic and passionate team.
+> I have key experience in distributed computing, natural language processing, ecommerce and cloud architectures.
 > Fast pace environments don't scare me.
-> I roll-my-own for personal projects (I want to learn) and connect-the-dots for professional projects (I want to deliver).
+> I like to deliver.
 
 #### Me ####
 
-Hi, my name is Antonio Fiumanò, I was born in Italy in October 1, 1985, I'm a **developer** in a wide variety of applications but my *current* focus is on web applications and services because designing and building scalable, distributed applications on the cloud is challenging and challenge is *fun!*
+Hi, my name is Antonio, I was born in Italy in 1985, I'm a **developer** in a wide variety of applications but my *current* focus is on web applications and services because designing and building scalable, distributed applications on the cloud is challenging and challenge is *fun!*
 
-Although I have **12 years of professional experience**, I have never worked a single day of my life.
-I *love* programming, heck, I've been programming since I was 9 years old, it's my passion and my stress relief, my obsession and my hobby.
-That's why I'm looking for a dynamic and young environment with passionate people like me, people I could learn from.
+Although I have **13 years of professional experience**, I have never worked a single day of my life.
+I *love* programming, I've been doing it since I was 9 years old, it's my passion and my stress relief, my obsession and my hobby.
 
-### Professional Experience ###
 
-#### Mailcloud ####
+## Professional Experience ##
+
+#### Equal Experts / May 2016 - Present / London, United Kingdom
+
+We enabled customers to make quick and accurate commercial decisions for the pharmaceutical industry by providing modern web API and single page apps using the **AWS** infrastructure.
+Working in a serverless environment, including technologies like **Lambda**, **Kinesis**, **SNS**, **SQS**, **S3**, **Api Gateway**, **ElasticSearch**, we used both **NodeJS** and **dotnet core** for the backend while **ReactJS** powered the frontend.
+
+#### Mailcloud / May 2015 - March 2016 / London, United Kingdom
 
 I've developed applications on the **Microsoft Azure** stack, using **Service Fabric**, **Orleans**, **Cloud Services**, **Storage Services** (Tables, Queues, Blobs), **Service Bus**...
 I've implemented core algorithms for data sharding, conflict free replicated data types (**CRDT**), load balancing and data streaming with strong eventual consistency.
 
-#### 1E ####
+#### 1E / January 2014 - December 2014 / London, United Kingdom
 
 I've worked on a cloud based virtual machine delivery solution for implementing "Bring Your Own Device" policies. I've been developing on the **Azure** backend using **C#** and the virtualization engine in **C++** for low level or high performance functionalities (encryption, drivers, compression, etc...).
 
-#### JustGiving ####
+#### JustGiving / January 2013 - December 2013 / London, United Kingdom
 
-I moved to London to work with (<abbr title="JustGiving, London, United Kingdom">JustGiving, 2013-</abbr>) on the new mobile focused donation process and the new universal search. My work improved the conversion rate and the performance of the website by a considerable amount. I spent the rest of my time teaching people new skills and improving the development/release cycle of the platform.
+Worked on the new mobile focused donation process using **AngularJS** and **C#** and the new universal search on **ElasticSearch**. My work improved the conversion rate and the performance of the website by a considerable amount. I spent the rest of my time teaching people new skills and improving the development/release cycle of the platform.
 
-#### DocFlow ####
+#### DocFlow / April 2012 - January 2013 / Milan, Italy
 
-Moving to Milan for a Software Architect position (<abbr title="DocFlow S.p.a., Milano, Italy">DocFlow, 2012-2013</abbr>) has been a great challenge. My job was to introduce agile methodologies, coordinate two teams of developers, refactoring & redesigning the whole web platform of the company, architect and lead developer of the most strategically important project of the company. As an architect, I was working both on the backend (**C#**) and the frontend (**HTML5**, **CSS**, **JavaScript**, **KnockoutJs**, **AmplifyJs**, **Bootstrap**) developing mostly the frontend part while reviewing, designing and gluing together the backend part.
+My job was to introduce agile methodologies, coordinate two teams of developers, refactoring & redesigning the internal web platform, architect and lead developer of a strategically important project of the company. I was working both on the backend (**C#**) and the frontend (**HTML5**, **CSS**, **JavaScript**, **KnockoutJs**, **AmplifyJs**, **Bootstrap**) developing mostly the frontend part while reviewing, designing and gluing together the backend.
 
-#### Yoox ####
+#### Yoox / January 2010 - April 2012 / Bologna, Italy
 
-Web development slowly became my hobby and I started with my first web developer position (<abbr title="Yoox S.p.a., Bologna, Italy">Yoox, 2010-2012</abbr>) in January 2010.
-My job consisted mainly in **SoA** and **web APIs** design on the **Microsoft stack** <dfn>(ASP.net MVC, C#)</dfn>, I was in charge of architecting and developing **distributed** applications in **C#** on the **.net Framework** that are successfully handling millions of requests per hour.
-Scrum was part of my daily routine but I'm used to XP and KanBan too.
-I approached software development mainly with **<acronym title="Test Driven Development">TDD</acronym>** and **<acronym title="Behavior Driven Development">BDD</acronym>**, always in continuous integration.
+My job consisted mainly in **Service Oriented Architectures** and **RESTful APIs** design on the Microsoft stack. I was in charge of architecting and developing **distributed** applications using micro services in C# on the .net Framework, successfully handling millions of requests per hour. *Scrum* was part of my daily routine but we used to **XP** and **KanBan** as well. I approached software development mostly with **TDD** and **BDD**, always in **continuous integration** and **continuous delivery**.
 
-#### Expert System ####
+#### Expert System / October 2004 - December 2009 / Modena, Italy
 
-Then I got my second job (<abbr title="Expert System S.p.a., Modena, Italy">Expert System, 2004-2010</abbr>), which introduced me to **Semantics and Linguistics**.
-Still today **Natural Language Processing** along with **Information Retrieval** are two of my interests.
-I've successfully delivered a wide range of server and client applications for the **Windows** and **Linux** platforms using mainly **C++**, **MFC**, **boost** and later **C#**.
-My love for algorithms and data structures plus my obsessive perfectionism pushed me to came up with my own take on prefix trees for fast dictionary lookup.
+This job introduced me to **Semantics and Linguistics** and still today **Natural Language Processing** along with **Information Retrieval** are two of my main interests. I’ve successfully delivered a wide range of server and client applications for the **Windows** and **Linux** platforms using mostly **C++**, **MFC**, **boost** and later **C#**. My love for algorithms and data structures plus my obsessive perfectionism pushed me to come up with my own take on prefix trees for fast dictionary lookup in memory constrained environment.
 
-#### Milo ####
+#### Milo / June 2003 - September 2003 / Modena, Italy
 
-My first job (<abbr title="Milo S.a.s, Modena, Italy">Milo, 2003-2004</abbr>) at the age of 17 had me involved as the **developer** of a **real time debugger** for microcontrollers <dfn>(USB, RS-232, GPS tracking system)</dfn> using **C** and **C++**.
+Software development for automation. I was in charge of developing a **real time debugger** for Motorola microcontrollers <dfn>(USB, RS-232, GPS tracking system)</dfn> using **C**, **C++**, and ASM.
 
-### Personal Experience ###
+
+## Personal Experience ##
 
 #### 2014 - 2016 ####
 
