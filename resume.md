@@ -1,4 +1,4 @@
-# Antonio Fiumanò #
+# Antonio Fiumano #
 
 #### tl;dr ####
 
@@ -19,37 +19,37 @@ I *love* programming, I've been doing it since I was 9 years old, it's my passio
 
 ## Professional Experience ##
 
-#### Equal Experts / May 2016 - Present / London, United Kingdom
+#### Equal Experts | May 2016 - Present | London, United Kingdom
 
 We enabled customers to make quick and accurate commercial decisions for the pharmaceutical industry by providing modern web API and single page apps using the **AWS** infrastructure.
 Working in a serverless environment, including technologies like **Lambda**, **Kinesis**, **SNS**, **SQS**, **S3**, **Api Gateway**, **ElasticSearch**, we used both **NodeJS** and **dotnet core** for the backend while **ReactJS** powered the frontend.
 
-#### Mailcloud / May 2015 - March 2016 / London, United Kingdom
+#### Mailcloud | May 2015 - March 2016 | London, United Kingdom
 
 I've developed applications on the **Microsoft Azure** stack, using **Service Fabric**, **Orleans**, **Cloud Services**, **Storage Services** (Tables, Queues, Blobs), **Service Bus**...
 I've implemented core algorithms for data sharding, conflict free replicated data types (**CRDT**), load balancing and data streaming with strong eventual consistency.
 
-#### 1E / January 2014 - December 2014 / London, United Kingdom
+#### 1E | January 2014 - December 2014 | London, United Kingdom
 
 I've worked on a cloud based virtual machine delivery solution for implementing "Bring Your Own Device" policies. I've been developing on the **Azure** backend using **C#** and the virtualization engine in **C++** for low level or high performance functionalities (encryption, drivers, compression, etc...).
 
-#### JustGiving / January 2013 - December 2013 / London, United Kingdom
+#### JustGiving | January 2013 - December 2013 | London, United Kingdom
 
 Worked on the new mobile focused donation process using **AngularJS** and **C#** and the new universal search on **ElasticSearch**. My work improved the conversion rate and the performance of the website by a considerable amount. I spent the rest of my time teaching people new skills and improving the development/release cycle of the platform.
 
-#### DocFlow / April 2012 - January 2013 / Milan, Italy
+#### DocFlow | April 2012 - January 2013 | Milan, Italy
 
 My job was to introduce agile methodologies, coordinate two teams of developers, refactoring & redesigning the internal web platform, architect and lead developer of a strategically important project of the company. I was working both on the backend (**C#**) and the frontend (**HTML5**, **CSS**, **JavaScript**, **KnockoutJs**, **AmplifyJs**, **Bootstrap**) developing mostly the frontend part while reviewing, designing and gluing together the backend.
 
-#### Yoox / January 2010 - April 2012 / Bologna, Italy
+#### Yoox | January 2010 - April 2012 | Bologna, Italy
 
 My job consisted mainly in **Service Oriented Architectures** and **RESTful APIs** design on the Microsoft stack. I was in charge of architecting and developing **distributed** applications using micro services in C# on the .net Framework, successfully handling millions of requests per hour. *Scrum* was part of my daily routine but we used to **XP** and **KanBan** as well. I approached software development mostly with **TDD** and **BDD**, always in **continuous integration** and **continuous delivery**.
 
-#### Expert System / October 2004 - December 2009 / Modena, Italy
+#### Expert System | October 2004 - December 2009 | Modena, Italy
 
 This job introduced me to **Semantics and Linguistics** and still today **Natural Language Processing** along with **Information Retrieval** are two of my main interests. I’ve successfully delivered a wide range of server and client applications for the **Windows** and **Linux** platforms using mostly **C++**, **MFC**, **boost** and later **C#**. My love for algorithms and data structures plus my obsessive perfectionism pushed me to come up with my own take on prefix trees for fast dictionary lookup in memory constrained environment.
 
-#### Milo / June 2003 - September 2003 / Modena, Italy
+#### Milo | June 2003 - September 2003 | Modena, Italy
 
 Software development for automation. I was in charge of developing a **real time debugger** for Motorola microcontrollers <dfn>(USB, RS-232, GPS tracking system)</dfn> using **C**, **C++**, and ASM.
 
